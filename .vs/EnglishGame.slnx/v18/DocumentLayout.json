@@ -1,0 +1,613 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\EnglishGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B9BC1C-1067-66F3-D9C3-9403D738BA4B}|EnglishGame\\EnglishGame.csproj|d:\\englishgame\\englishgame\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B9BC1C-1067-66F3-D9C3-9403D738BA4B}|EnglishGame\\EnglishGame.csproj|solutionrelative:englishgame\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B9BC1C-1067-66F3-D9C3-9403D738BA4B}|EnglishGame\\EnglishGame.csproj|d:\\englishgame\\englishgame\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B9BC1C-1067-66F3-D9C3-9403D738BA4B}|EnglishGame\\EnglishGame.csproj|solutionrelative:englishgame\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B9BC1C-1067-66F3-D9C3-9403D738BA4B}|EnglishGame\\EnglishGame.csproj|d:\\englishgame\\englishgame\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B3B9BC1C-1067-66F3-D9C3-9403D738BA4B}|EnglishGame\\EnglishGame.csproj|solutionrelative:englishgame\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B9BC1C-1067-66F3-D9C3-9403D738BA4B}|EnglishGame\\EnglishGame.csproj|d:\\englishgame\\englishgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B9BC1C-1067-66F3-D9C3-9403D738BA4B}|EnglishGame\\EnglishGame.csproj|solutionrelative:englishgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B9BC1C-1067-66F3-D9C3-9403D738BA4B}|EnglishGame\\EnglishGame.csproj|d:\\englishgame\\englishgame\\services\\ai\\mockaigenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B9BC1C-1067-66F3-D9C3-9403D738BA4B}|EnglishGame\\EnglishGame.csproj|solutionrelative:englishgame\\services\\ai\\mockaigenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B9BC1C-1067-66F3-D9C3-9403D738BA4B}|EnglishGame\\EnglishGame.csproj|d:\\englishgame\\englishgame\\services\\ai\\openaicompatiblegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B9BC1C-1067-66F3-D9C3-9403D738BA4B}|EnglishGame\\EnglishGame.csproj|solutionrelative:englishgame\\services\\ai\\openaicompatiblegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B9BC1C-1067-66F3-D9C3-9403D738BA4B}|EnglishGame\\EnglishGame.csproj|d:\\englishgame\\englishgame\\dtos\\chatdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B9BC1C-1067-66F3-D9C3-9403D738BA4B}|EnglishGame\\EnglishGame.csproj|solutionrelative:englishgame\\dtos\\chatdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{089100B1-113F-4E66-888A-E83F3999EAFD}|Solution Items{089100B1-113F-4E66-888A-E83F3999EAFD}|D:\\EnglishGame\\nuget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{089100B1-113F-4E66-888A-E83F3999EAFD}|Solution Items{089100B1-113F-4E66-888A-E83F3999EAFD}|solutionrelative:nuget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B9BC1C-1067-66F3-D9C3-9403D738BA4B}|EnglishGame\\EnglishGame.csproj|d:\\englishgame\\englishgame\\dtos\\gamedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B9BC1C-1067-66F3-D9C3-9403D738BA4B}|EnglishGame\\EnglishGame.csproj|solutionrelative:englishgame\\dtos\\gamedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B9BC1C-1067-66F3-D9C3-9403D738BA4B}|EnglishGame\\EnglishGame.csproj|d:\\englishgame\\englishgame\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B9BC1C-1067-66F3-D9C3-9403D738BA4B}|EnglishGame\\EnglishGame.csproj|solutionrelative:englishgame\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B9BC1C-1067-66F3-D9C3-9403D738BA4B}|EnglishGame\\EnglishGame.csproj|d:\\englishgame\\englishgame\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B3B9BC1C-1067-66F3-D9C3-9403D738BA4B}|EnglishGame\\EnglishGame.csproj|solutionrelative:englishgame\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B9BC1C-1067-66F3-D9C3-9403D738BA4B}|EnglishGame\\EnglishGame.csproj|d:\\englishgame\\englishgame\\englishgame.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{B3B9BC1C-1067-66F3-D9C3-9403D738BA4B}|EnglishGame\\EnglishGame.csproj|solutionrelative:englishgame\\englishgame.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B9BC1C-1067-66F3-D9C3-9403D738BA4B}|EnglishGame\\EnglishGame.csproj|d:\\englishgame\\englishgame\\models\\aicontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B9BC1C-1067-66F3-D9C3-9403D738BA4B}|EnglishGame\\EnglishGame.csproj|solutionrelative:englishgame\\models\\aicontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B9BC1C-1067-66F3-D9C3-9403D738BA4B}|EnglishGame\\EnglishGame.csproj|d:\\englishgame\\englishgame\\controllers\\aichatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B9BC1C-1067-66F3-D9C3-9403D738BA4B}|EnglishGame\\EnglishGame.csproj|solutionrelative:englishgame\\controllers\\aichatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B9BC1C-1067-66F3-D9C3-9403D738BA4B}|EnglishGame\\EnglishGame.csproj|d:\\englishgame\\englishgame\\services\\ai\\iaigenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B9BC1C-1067-66F3-D9C3-9403D738BA4B}|EnglishGame\\EnglishGame.csproj|solutionrelative:englishgame\\services\\ai\\iaigenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B9BC1C-1067-66F3-D9C3-9403D738BA4B}|EnglishGame\\EnglishGame.csproj|d:\\englishgame\\englishgame\\controllers\\aicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B9BC1C-1067-66F3-D9C3-9403D738BA4B}|EnglishGame\\EnglishGame.csproj|solutionrelative:englishgame\\controllers\\aicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B9BC1C-1067-66F3-D9C3-9403D738BA4B}|EnglishGame\\EnglishGame.csproj|d:\\englishgame\\englishgame\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B9BC1C-1067-66F3-D9C3-9403D738BA4B}|EnglishGame\\EnglishGame.csproj|solutionrelative:englishgame\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B9BC1C-1067-66F3-D9C3-9403D738BA4B}|EnglishGame\\EnglishGame.csproj|d:\\englishgame\\englishgame\\services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B9BC1C-1067-66F3-D9C3-9403D738BA4B}|EnglishGame\\EnglishGame.csproj|solutionrelative:englishgame\\services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B9BC1C-1067-66F3-D9C3-9403D738BA4B}|EnglishGame\\EnglishGame.csproj|d:\\englishgame\\englishgame\\dtos\\topicdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B9BC1C-1067-66F3-D9C3-9403D738BA4B}|EnglishGame\\EnglishGame.csproj|solutionrelative:englishgame\\dtos\\topicdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B9BC1C-1067-66F3-D9C3-9403D738BA4B}|EnglishGame\\EnglishGame.csproj|d:\\englishgame\\englishgame\\controllers\\leaderboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B9BC1C-1067-66F3-D9C3-9403D738BA4B}|EnglishGame\\EnglishGame.csproj|solutionrelative:englishgame\\controllers\\leaderboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B9BC1C-1067-66F3-D9C3-9403D738BA4B}|EnglishGame\\EnglishGame.csproj|d:\\englishgame\\englishgame\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B9BC1C-1067-66F3-D9C3-9403D738BA4B}|EnglishGame\\EnglishGame.csproj|solutionrelative:englishgame\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B9BC1C-1067-66F3-D9C3-9403D738BA4B}|EnglishGame\\EnglishGame.csproj|d:\\englishgame\\englishgame\\dtos\\admindtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B9BC1C-1067-66F3-D9C3-9403D738BA4B}|EnglishGame\\EnglishGame.csproj|solutionrelative:englishgame\\dtos\\admindtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B9BC1C-1067-66F3-D9C3-9403D738BA4B}|EnglishGame\\EnglishGame.csproj|d:\\englishgame\\englishgame\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B9BC1C-1067-66F3-D9C3-9403D738BA4B}|EnglishGame\\EnglishGame.csproj|solutionrelative:englishgame\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B9BC1C-1067-66F3-D9C3-9403D738BA4B}|EnglishGame\\EnglishGame.csproj|d:\\englishgame\\englishgame\\controllers\\topicscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B9BC1C-1067-66F3-D9C3-9403D738BA4B}|EnglishGame\\EnglishGame.csproj|solutionrelative:englishgame\\controllers\\topicscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B9BC1C-1067-66F3-D9C3-9403D738BA4B}|EnglishGame\\EnglishGame.csproj|d:\\englishgame\\englishgame\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B9BC1C-1067-66F3-D9C3-9403D738BA4B}|EnglishGame\\EnglishGame.csproj|solutionrelative:englishgame\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B9BC1C-1067-66F3-D9C3-9403D738BA4B}|EnglishGame\\EnglishGame.csproj|d:\\englishgame\\englishgame\\models\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B9BC1C-1067-66F3-D9C3-9403D738BA4B}|EnglishGame\\EnglishGame.csproj|solutionrelative:englishgame\\models\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B9BC1C-1067-66F3-D9C3-9403D738BA4B}|EnglishGame\\EnglishGame.csproj|d:\\englishgame\\englishgame\\models\\attempt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B9BC1C-1067-66F3-D9C3-9403D738BA4B}|EnglishGame\\EnglishGame.csproj|solutionrelative:englishgame\\models\\attempt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B9BC1C-1067-66F3-D9C3-9403D738BA4B}|EnglishGame\\EnglishGame.csproj|d:\\englishgame\\englishgame\\models\\gamesession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B9BC1C-1067-66F3-D9C3-9403D738BA4B}|EnglishGame\\EnglishGame.csproj|solutionrelative:englishgame\\models\\gamesession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B9BC1C-1067-66F3-D9C3-9403D738BA4B}|EnglishGame\\EnglishGame.csproj|d:\\englishgame\\englishgame\\models\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B9BC1C-1067-66F3-D9C3-9403D738BA4B}|EnglishGame\\EnglishGame.csproj|solutionrelative:englishgame\\models\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B9BC1C-1067-66F3-D9C3-9403D738BA4B}|EnglishGame\\EnglishGame.csproj|d:\\englishgame\\englishgame\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B9BC1C-1067-66F3-D9C3-9403D738BA4B}|EnglishGame\\EnglishGame.csproj|solutionrelative:englishgame\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B9BC1C-1067-66F3-D9C3-9403D738BA4B}|EnglishGame\\EnglishGame.csproj|d:\\englishgame\\englishgame\\dtos\\adminuserdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B9BC1C-1067-66F3-D9C3-9403D738BA4B}|EnglishGame\\EnglishGame.csproj|solutionrelative:englishgame\\dtos\\adminuserdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B9BC1C-1067-66F3-D9C3-9403D738BA4B}|EnglishGame\\EnglishGame.csproj|d:\\englishgame\\englishgame\\dtos\\authdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B9BC1C-1067-66F3-D9C3-9403D738BA4B}|EnglishGame\\EnglishGame.csproj|solutionrelative:englishgame\\dtos\\authdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B9BC1C-1067-66F3-D9C3-9403D738BA4B}|EnglishGame\\EnglishGame.csproj|d:\\englishgame\\englishgame\\englishgame.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B3B9BC1C-1067-66F3-D9C3-9403D738BA4B}|EnglishGame\\EnglishGame.csproj|solutionrelative:englishgame\\englishgame.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\EnglishGame\\EnglishGame\\Migrations\\20260123085936_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EnglishGame\\Migrations\\20260123085936_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B9BC1C-1067-66F3-D9C3-9403D738BA4B}|EnglishGame\\EnglishGame.csproj|d:\\englishgame\\englishgame\\migrations\\20260123091236_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B9BC1C-1067-66F3-D9C3-9403D738BA4B}|EnglishGame\\EnglishGame.csproj|solutionrelative:englishgame\\migrations\\20260123091236_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B9BC1C-1067-66F3-D9C3-9403D738BA4B}|EnglishGame\\EnglishGame.csproj|d:\\englishgame\\englishgame\\migrations\\20260131085619_addresettoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B9BC1C-1067-66F3-D9C3-9403D738BA4B}|EnglishGame\\EnglishGame.csproj|solutionrelative:englishgame\\migrations\\20260131085619_addresettoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B9BC1C-1067-66F3-D9C3-9403D738BA4B}|EnglishGame\\EnglishGame.csproj|d:\\englishgame\\englishgame\\migrations\\20260209044401_initgamechanges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B9BC1C-1067-66F3-D9C3-9403D738BA4B}|EnglishGame\\EnglishGame.csproj|solutionrelative:englishgame\\migrations\\20260209044401_initgamechanges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MockAiGenerator.cs",
+              "DocumentMoniker": "D:\\EnglishGame\\EnglishGame\\Services\\Ai\\MockAiGenerator.cs",
+              "RelativeDocumentMoniker": "EnglishGame\\Services\\Ai\\MockAiGenerator.cs",
+              "ToolTip": "D:\\EnglishGame\\EnglishGame\\Services\\Ai\\MockAiGenerator.cs",
+              "RelativeToolTip": "EnglishGame\\Services\\Ai\\MockAiGenerator.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T04:20:19.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\EnglishGame\\EnglishGame\\Program.cs",
+              "RelativeDocumentMoniker": "EnglishGame\\Program.cs",
+              "ToolTip": "D:\\EnglishGame\\EnglishGame\\Program.cs",
+              "RelativeToolTip": "EnglishGame\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T04:17:15.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\EnglishGame\\EnglishGame\\appsettings.json",
+              "RelativeDocumentMoniker": "EnglishGame\\appsettings.json",
+              "ToolTip": "D:\\EnglishGame\\EnglishGame\\appsettings.json",
+              "RelativeToolTip": "EnglishGame\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-23T08:55:06.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OpenAiCompatibleGenerator.cs",
+              "DocumentMoniker": "D:\\EnglishGame\\EnglishGame\\Services\\Ai\\OpenAiCompatibleGenerator.cs",
+              "RelativeDocumentMoniker": "EnglishGame\\Services\\Ai\\OpenAiCompatibleGenerator.cs",
+              "ToolTip": "D:\\EnglishGame\\EnglishGame\\Services\\Ai\\OpenAiCompatibleGenerator.cs",
+              "RelativeToolTip": "EnglishGame\\Services\\Ai\\OpenAiCompatibleGenerator.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T04:20:15.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\EnglishGame\\EnglishGame\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "EnglishGame\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\EnglishGame\\EnglishGame\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "EnglishGame\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAiwBwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T09:10:09.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "D:\\EnglishGame\\EnglishGame\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "EnglishGame\\Data\\DbInitializer.cs",
+              "ToolTip": "D:\\EnglishGame\\EnglishGame\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "EnglishGame\\Data\\DbInitializer.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T04:14:26.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\EnglishGame\\EnglishGame\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "EnglishGame\\appsettings.Development.json",
+              "ToolTip": "D:\\EnglishGame\\EnglishGame\\appsettings.Development.json",
+              "RelativeToolTip": "EnglishGame\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-27T03:33:03.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameDtos.cs",
+              "DocumentMoniker": "D:\\EnglishGame\\EnglishGame\\Dtos\\GameDtos.cs",
+              "RelativeDocumentMoniker": "EnglishGame\\Dtos\\GameDtos.cs",
+              "ToolTip": "D:\\EnglishGame\\EnglishGame\\Dtos\\GameDtos.cs",
+              "RelativeToolTip": "EnglishGame\\Dtos\\GameDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T04:17:29.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChatDtos.cs",
+              "DocumentMoniker": "D:\\EnglishGame\\EnglishGame\\Dtos\\ChatDtos.cs",
+              "RelativeDocumentMoniker": "EnglishGame\\Dtos\\ChatDtos.cs",
+              "ToolTip": "D:\\EnglishGame\\EnglishGame\\Dtos\\ChatDtos.cs",
+              "RelativeToolTip": "EnglishGame\\Dtos\\ChatDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T15:25:37.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "nuget.config",
+              "DocumentMoniker": "D:\\EnglishGame\\nuget.config",
+              "RelativeDocumentMoniker": "nuget.config",
+              "ToolTip": "D:\\EnglishGame\\nuget.config",
+              "RelativeToolTip": "nuget.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-01-21T08:32:14.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\EnglishGame\\EnglishGame\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "EnglishGame\\Services\\AuthService.cs",
+              "ToolTip": "D:\\EnglishGame\\EnglishGame\\Services\\AuthService.cs",
+              "RelativeToolTip": "EnglishGame\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBQAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T04:20:09.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AiContent.cs",
+              "DocumentMoniker": "D:\\EnglishGame\\EnglishGame\\Models\\AiContent.cs",
+              "RelativeDocumentMoniker": "EnglishGame\\Models\\AiContent.cs",
+              "ToolTip": "D:\\EnglishGame\\EnglishGame\\Models\\AiContent.cs",
+              "RelativeToolTip": "EnglishGame\\Models\\AiContent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T04:19:50.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EnglishGame.http",
+              "DocumentMoniker": "D:\\EnglishGame\\EnglishGame\\EnglishGame.http",
+              "RelativeDocumentMoniker": "EnglishGame\\EnglishGame.http",
+              "ToolTip": "D:\\EnglishGame\\EnglishGame\\EnglishGame.http",
+              "RelativeToolTip": "EnglishGame\\EnglishGame.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-15T04:58:00.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AiChatController.cs",
+              "DocumentMoniker": "D:\\EnglishGame\\EnglishGame\\Controllers\\AiChatController.cs",
+              "RelativeDocumentMoniker": "EnglishGame\\Controllers\\AiChatController.cs",
+              "ToolTip": "D:\\EnglishGame\\EnglishGame\\Controllers\\AiChatController.cs",
+              "RelativeToolTip": "EnglishGame\\Controllers\\AiChatController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T15:26:14.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IAiGenerator.cs",
+              "DocumentMoniker": "D:\\EnglishGame\\EnglishGame\\Services\\Ai\\IAiGenerator.cs",
+              "RelativeDocumentMoniker": "EnglishGame\\Services\\Ai\\IAiGenerator.cs",
+              "ToolTip": "D:\\EnglishGame\\EnglishGame\\Services\\Ai\\IAiGenerator.cs",
+              "RelativeToolTip": "EnglishGame\\Services\\Ai\\IAiGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T04:20:21.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AiController.cs",
+              "DocumentMoniker": "D:\\EnglishGame\\EnglishGame\\Controllers\\AiController.cs",
+              "RelativeDocumentMoniker": "EnglishGame\\Controllers\\AiController.cs",
+              "ToolTip": "D:\\EnglishGame\\EnglishGame\\Controllers\\AiController.cs",
+              "RelativeToolTip": "EnglishGame\\Controllers\\AiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T04:20:01.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "D:\\EnglishGame\\EnglishGame\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "EnglishGame\\Services\\TokenService.cs",
+              "ToolTip": "D:\\EnglishGame\\EnglishGame\\Services\\TokenService.cs",
+              "RelativeToolTip": "EnglishGame\\Services\\TokenService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAQwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T04:20:12.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GameService.cs",
+              "DocumentMoniker": "D:\\EnglishGame\\EnglishGame\\Services\\GameService.cs",
+              "RelativeDocumentMoniker": "EnglishGame\\Services\\GameService.cs",
+              "ToolTip": "D:\\EnglishGame\\EnglishGame\\Services\\GameService.cs",
+              "RelativeToolTip": "EnglishGame\\Services\\GameService.cs",
+              "ViewState": "AgIAALABAAAAAAAAAADwvwACAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T04:20:10.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TopicDtos.cs",
+              "DocumentMoniker": "D:\\EnglishGame\\EnglishGame\\Dtos\\TopicDtos.cs",
+              "RelativeDocumentMoniker": "EnglishGame\\Dtos\\TopicDtos.cs",
+              "ToolTip": "D:\\EnglishGame\\EnglishGame\\Dtos\\TopicDtos.cs",
+              "RelativeToolTip": "EnglishGame\\Dtos\\TopicDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T04:19:51.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\EnglishGame\\EnglishGame\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "EnglishGame\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\EnglishGame\\EnglishGame\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "EnglishGame\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAUwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T15:18:41.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LeaderboardController.cs",
+              "DocumentMoniker": "D:\\EnglishGame\\EnglishGame\\Controllers\\LeaderboardController.cs",
+              "RelativeDocumentMoniker": "EnglishGame\\Controllers\\LeaderboardController.cs",
+              "ToolTip": "D:\\EnglishGame\\EnglishGame\\Controllers\\LeaderboardController.cs",
+              "RelativeToolTip": "EnglishGame\\Controllers\\LeaderboardController.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAUwGkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T10:29:48.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TopicsController.cs",
+              "DocumentMoniker": "D:\\EnglishGame\\EnglishGame\\Controllers\\TopicsController.cs",
+              "RelativeDocumentMoniker": "EnglishGame\\Controllers\\TopicsController.cs",
+              "ToolTip": "D:\\EnglishGame\\EnglishGame\\Controllers\\TopicsController.cs",
+              "RelativeToolTip": "EnglishGame\\Controllers\\TopicsController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T04:20:05.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "D:\\EnglishGame\\EnglishGame\\Controllers\\GameController.cs",
+              "RelativeDocumentMoniker": "EnglishGame\\Controllers\\GameController.cs",
+              "ToolTip": "D:\\EnglishGame\\EnglishGame\\Controllers\\GameController.cs",
+              "RelativeToolTip": "EnglishGame\\Controllers\\GameController.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAwHYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T04:20:02.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AdminDtos.cs",
+              "DocumentMoniker": "D:\\EnglishGame\\EnglishGame\\Dtos\\AdminDtos.cs",
+              "RelativeDocumentMoniker": "EnglishGame\\Dtos\\AdminDtos.cs",
+              "ToolTip": "D:\\EnglishGame\\EnglishGame\\Dtos\\AdminDtos.cs",
+              "RelativeToolTip": "EnglishGame\\Dtos\\AdminDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T04:17:27.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\EnglishGame\\EnglishGame\\Models\\User.cs",
+              "RelativeDocumentMoniker": "EnglishGame\\Models\\User.cs",
+              "ToolTip": "D:\\EnglishGame\\EnglishGame\\Models\\User.cs",
+              "RelativeToolTip": "EnglishGame\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T04:19:44.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Topic.cs",
+              "DocumentMoniker": "D:\\EnglishGame\\EnglishGame\\Models\\Topic.cs",
+              "RelativeDocumentMoniker": "EnglishGame\\Models\\Topic.cs",
+              "ToolTip": "D:\\EnglishGame\\EnglishGame\\Models\\Topic.cs",
+              "RelativeToolTip": "EnglishGame\\Models\\Topic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T04:19:46.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Attempt.cs",
+              "DocumentMoniker": "D:\\EnglishGame\\EnglishGame\\Models\\Attempt.cs",
+              "RelativeDocumentMoniker": "EnglishGame\\Models\\Attempt.cs",
+              "ToolTip": "D:\\EnglishGame\\EnglishGame\\Models\\Attempt.cs",
+              "RelativeToolTip": "EnglishGame\\Models\\Attempt.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T04:19:49.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GameSession.cs",
+              "DocumentMoniker": "D:\\EnglishGame\\EnglishGame\\Models\\GameSession.cs",
+              "RelativeDocumentMoniker": "EnglishGame\\Models\\GameSession.cs",
+              "ToolTip": "D:\\EnglishGame\\EnglishGame\\Models\\GameSession.cs",
+              "RelativeToolTip": "EnglishGame\\Models\\GameSession.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T04:19:47.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20260209044401_InitGameChanges.cs",
+              "DocumentMoniker": "D:\\EnglishGame\\EnglishGame\\Migrations\\20260209044401_InitGameChanges.cs",
+              "RelativeDocumentMoniker": "EnglishGame\\Migrations\\20260209044401_InitGameChanges.cs",
+              "ToolTip": "D:\\EnglishGame\\EnglishGame\\Migrations\\20260209044401_InitGameChanges.cs",
+              "RelativeToolTip": "EnglishGame\\Migrations\\20260209044401_InitGameChanges.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T04:44:01.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "D:\\EnglishGame\\EnglishGame\\Models\\Enums.cs",
+              "RelativeDocumentMoniker": "EnglishGame\\Models\\Enums.cs",
+              "ToolTip": "D:\\EnglishGame\\EnglishGame\\Models\\Enums.cs",
+              "RelativeToolTip": "EnglishGame\\Models\\Enums.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T04:19:48.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\EnglishGame\\EnglishGame\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EnglishGame\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\EnglishGame\\EnglishGame\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "EnglishGame\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAQwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T09:03:42.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20260131085619_AddResetToken.cs",
+              "DocumentMoniker": "D:\\EnglishGame\\EnglishGame\\Migrations\\20260131085619_AddResetToken.cs",
+              "RelativeDocumentMoniker": "EnglishGame\\Migrations\\20260131085619_AddResetToken.cs",
+              "ToolTip": "D:\\EnglishGame\\EnglishGame\\Migrations\\20260131085619_AddResetToken.cs",
+              "RelativeToolTip": "EnglishGame\\Migrations\\20260131085619_AddResetToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T08:56:19.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AdminUserDtos.cs",
+              "DocumentMoniker": "D:\\EnglishGame\\EnglishGame\\Dtos\\AdminUserDtos.cs",
+              "RelativeDocumentMoniker": "EnglishGame\\Dtos\\AdminUserDtos.cs",
+              "ToolTip": "D:\\EnglishGame\\EnglishGame\\Dtos\\AdminUserDtos.cs",
+              "RelativeToolTip": "EnglishGame\\Dtos\\AdminUserDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T14:04:15.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AuthDtos.cs",
+              "DocumentMoniker": "D:\\EnglishGame\\EnglishGame\\Dtos\\AuthDtos.cs",
+              "RelativeDocumentMoniker": "EnglishGame\\Dtos\\AuthDtos.cs",
+              "ToolTip": "D:\\EnglishGame\\EnglishGame\\Dtos\\AuthDtos.cs",
+              "RelativeToolTip": "EnglishGame\\Dtos\\AuthDtos.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T04:17:28.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "EnglishGame.csproj",
+              "DocumentMoniker": "D:\\EnglishGame\\EnglishGame\\EnglishGame.csproj",
+              "RelativeDocumentMoniker": "EnglishGame\\EnglishGame.csproj",
+              "ToolTip": "D:\\EnglishGame\\EnglishGame\\EnglishGame.csproj",
+              "RelativeToolTip": "EnglishGame\\EnglishGame.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-22T13:16:11.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20260123085936_InitialCreate.cs",
+              "DocumentMoniker": "D:\\EnglishGame\\EnglishGame\\Migrations\\20260123085936_InitialCreate.cs",
+              "RelativeDocumentMoniker": "EnglishGame\\Migrations\\20260123085936_InitialCreate.cs",
+              "ToolTip": "D:\\EnglishGame\\EnglishGame\\Migrations\\20260123085936_InitialCreate.cs",
+              "RelativeToolTip": "EnglishGame\\Migrations\\20260123085936_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T08:59:37.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20260123091236_InitialCreate.cs",
+              "DocumentMoniker": "D:\\EnglishGame\\EnglishGame\\Migrations\\20260123091236_InitialCreate.cs",
+              "RelativeDocumentMoniker": "EnglishGame\\Migrations\\20260123091236_InitialCreate.cs",
+              "ToolTip": "D:\\EnglishGame\\EnglishGame\\Migrations\\20260123091236_InitialCreate.cs",
+              "RelativeToolTip": "EnglishGame\\Migrations\\20260123091236_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T09:12:36.792Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
